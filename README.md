@@ -1,1 +1,2 @@
-[SNIPPETS](https://github.com/vryabov1/info/wiki)
+# Сниппеты и советы
+[Страница Wiki](https://github.com/vryabov1/info/wiki)
